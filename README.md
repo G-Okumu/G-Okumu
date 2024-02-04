@@ -31,9 +31,15 @@
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Okumu&theme=soft-green&hide_border=true&mode=weekly"/>
     </a>
 </div>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <a href="https://github.com/G-Okumu">
+        <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Okumu&layout=donut&show_icons=true&theme=onedark&hide_border=true"/>
+    </a>
+    
+<a href="https://wakatime.com/@george_okumu">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=george_okumu&theme=onedark&hide_border=true"/>
+    </a>
+</div>
 
 <a><h2>🤝🏻 &nbsp;Let's Connect in</h2></a>
 
